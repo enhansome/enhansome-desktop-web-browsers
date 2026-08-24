@@ -1,10 +1,950 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "A curated collection of the browsers named starting from A.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agregore Browser",
+          "description": "Electron Windows, Linux, macOS Minimal browser for distributed web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271903277,
+            "language": "JavaScript",
+            "last_commit": "2026-07-13T14:45:15Z",
+            "owner": "AgregoreWeb",
+            "repo": "agregore-browser",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arctic Fox Web Browser",
+          "description": "Goana, SpiderMonkey Mac OS X 10.6+, Linux, BSD, Windows XP Fork of Pale Moon 27.9.4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152181901,
+            "language": "C++",
+            "last_commit": "2026-08-21T22:34:31Z",
+            "owner": "rmottola",
+            "repo": "Arctic-Fox",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asobi",
+          "description": "WebKit macOS Minimalist navigation bar browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 392064132,
+            "language": "Swift",
+            "last_commit": "2024-10-04T18:42:16Z",
+            "owner": "kingbri1",
+            "repo": "Asobi",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "A — A Named Browsers"
+    },
+    {
+      "description": "A curated collection of the browsers named starting from B.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Beaker Browser",
+          "description": "Blink Linux, Windows, macOS Experimental peer-to-peer Web browser [Archived]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 59700207,
+            "language": "JavaScript",
+            "last_commit": "2022-12-27T21:47:18Z",
+            "owner": "beakerbrowser",
+            "repo": "beaker",
+            "stars": 6745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beam",
+          "description": "Webkit macOS For healthy thinking on the internet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618766633,
+            "language": "Swift",
+            "last_commit": "2026-04-10T15:09:01Z",
+            "owner": "beamlegacy",
+            "repo": "beam",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BonBon Browser",
+          "description": "Chromium Windows, macOS, Linux Lightweight and innovative",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 508826004,
+            "language": "TypeScript",
+            "last_commit": "2024-11-20T08:06:13Z",
+            "owner": "BonBon-exchange",
+            "repo": "bonbon-browser",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Borneo Browser",
+          "description": "QtWebEngine Windows, macOS, Linux Minimalist web browser [Discontinued]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14734753,
+            "language": "C++",
+            "last_commit": "2013-12-23T19:43:59Z",
+            "owner": "pioplo",
+            "repo": "Borneo",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrowserBox",
+          "description": "Chromium Web Browse the whole web from a web page. Remote browser isolation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222240688,
+            "language": "Shell",
+            "last_commit": "2026-08-19T17:18:58Z",
+            "owner": "BrowserBox",
+            "repo": "BrowserBox",
+            "stars": 3899
+          }
+        }
+      ],
+      "title": "B — B Named Browsers"
+    },
+    {
+      "description": "A collection of browsers named starting from C.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cachy Browser",
+          "description": "Gecko Linux Privacy-focused, based on LibreWolf",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 401616171,
+            "language": "JavaScript",
+            "last_commit": "2025-03-05T20:48:27Z",
+            "owner": "CachyOS",
+            "repo": "CachyOS-Browser-Settings",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carbonyl",
+          "description": "Chromium Linux, macOS, Windows Chromium running inside terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 591273534,
+            "language": "Rust",
+            "last_commit": "2024-07-01T14:31:50Z",
+            "owner": "fathyb",
+            "repo": "carbonyl",
+            "stars": 19465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catalyst",
+          "description": "Electron Windows, Linux, macOS ElectronJS web browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 439734202,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T12:59:25Z",
+            "owner": "CatalystDevOrg",
+            "repo": "Catalyst",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chromium-Gost",
+          "description": "V8, Blink Windows, Linux, macOS Open-source with GOST algorithm support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80726665,
+            "language": "C++",
+            "last_commit": "2026-08-10T11:52:25Z",
+            "owner": "deemru",
+            "repo": "Chromium-Gost",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Companion",
+          "description": "Electron Windows, macOS, Linux A friendly mini browser to pin on top of any other desktop app and keep doing your things while enjoying a live stream or a youtube video.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122005605,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T12:28:24Z",
+            "owner": "leonaaraujo",
+            "repo": "companion",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cromite",
+          "description": "Chromium Windows, Linux, macOS Bromite fork with ad blocking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257841809,
+            "language": "C++",
+            "last_commit": "2026-08-23T03:46:53Z",
+            "owner": "uazo",
+            "repo": "cromite",
+            "stars": 8105
+          }
+        }
+      ],
+      "title": "C — C Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from D.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dBrowser",
+          "description": "Electron Windows, macOS, Linux Web browser for Web3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 302356808,
+            "language": "TypeScript",
+            "last_commit": "2022-10-04T10:02:29Z",
+            "owner": "dBrowser",
+            "repo": "dbrowser",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dissenter Browser",
+          "description": "Chromium Windows, macOS, Linux Blocks Big Tech ads and trackers",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 184648845,
+            "language": "JavaScript",
+            "last_commit": "2021-08-12T02:17:40Z",
+            "owner": "gab-ai-inc",
+            "repo": "defiant-browser",
+            "stars": 108
+          }
+        }
+      ],
+      "title": "D — D Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from F.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Felida Browser",
+          "description": "Electron Windows, Linux A lightweight Chromium Browser using Electron.js!",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 271485606,
+            "language": "JavaScript",
+            "last_commit": "2025-02-07T20:56:39Z",
+            "owner": "raluvy95",
+            "repo": "FelidaBrowser",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fifo Browser",
+          "description": "Electron Windows, macOS, Linux Modern web browser built on Electron and React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 399391518,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T10:53:39Z",
+            "owner": "snaildos",
+            "repo": "Fifo-Browser",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FireDragon Browser",
+          "description": "Gecko Linux Fork of LibreWolf with enhanced KDE integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 372471005,
+            "language": "CSS",
+            "last_commit": "2026-08-21T16:40:21Z",
+            "owner": "garuda-linux",
+            "repo": "firedragon",
+            "stars": 398
+          }
+        }
+      ],
+      "title": "F — F Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from G.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Glow Browser",
+          "description": "WebKit macOS Light-weight web browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111466292,
+            "language": "Swift",
+            "last_commit": "2019-11-13T03:24:17Z",
+            "owner": "revblaze",
+            "repo": "Glow",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "G — G Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from H.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Helix",
+          "description": "Gecko Windows, Linux, macOS Just another Gecko browser. [Experimental]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 585778016,
+            "language": "JavaScript",
+            "last_commit": "2024-04-26T05:21:35Z",
+            "owner": "pulse-browser",
+            "repo": "experiment",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "H — H Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from I.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "InterWeb",
+          "description": "Gecko macOS Web browser based on Firefox-esr 52",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 393852279,
+            "language": null,
+            "last_commit": "2022-10-18T02:06:52Z",
+            "owner": "wicknix",
+            "repo": "InterWebSnow",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "I — I Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from K.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kaktus",
+          "description": "Electron Windows, macOS, Linux Minimalistic web browser [Archived]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 69702570,
+            "language": "JavaScript",
+            "last_commit": "2024-10-09T11:05:54Z",
+            "owner": "azer",
+            "repo": "kaktus",
+            "stars": 412
+          }
+        }
+      ],
+      "title": "K — K Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from L.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lagrange",
+          "description": "Custom Windows, macOS, Linux Desktop GUI client for Geminispace",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 295608796,
+            "language": "C",
+            "last_commit": "2026-08-23T19:51:20Z",
+            "owner": "skyjake",
+            "repo": "lagrange",
+            "stars": 1496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Light Browser",
+          "description": "CefSharp Windows One-Tab-Browsing for low memory usage [Archived]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 251438753,
+            "language": "C#",
+            "last_commit": "2020-12-18T15:24:40Z",
+            "owner": "raphipod",
+            "repo": "LightBrowser-2020",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liri Browser",
+          "description": "QtWebEngine Linux Cross-platform Material design web browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68911286,
+            "language": "QML",
+            "last_commit": "2024-06-28T04:33:49Z",
+            "owner": "lirios",
+            "repo": "browser",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoboEvolution",
+          "description": "Custom Windows, macOS, Linux Extensible all-Java web browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25392674,
+            "language": "Java",
+            "last_commit": "2026-08-04T23:27:35Z",
+            "owner": "LoboEvolution",
+            "repo": "LoboEvolution",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lulumi-browser",
+          "description": "Electron Windows, macOS, Linux Lightweight browser with Vue.js 2 and Electron",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79984251,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T16:57:38Z",
+            "owner": "LulumiProject",
+            "repo": "lulumi-browser",
+            "stars": 441
+          }
+        }
+      ],
+      "title": "L — L Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from M.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Marble",
+          "description": "Gecko Windows, macOS, Linux Marble aims to restore the Photon style & layout for various platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1004717126,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T23:51:37Z",
+            "owner": "Erizur",
+            "repo": "Marble",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minichrome Browser",
+          "description": "Blink (Based on Electron) Linux Minimalistic web browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146662386,
+            "language": "PureScript",
+            "last_commit": "2019-02-17T18:43:24Z",
+            "owner": "cprussin",
+            "repo": "minichrome",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minum Browser",
+          "description": "WebKit MacOS Minimalistic web browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35435861,
+            "language": "JavaScript",
+            "last_commit": "2018-07-02T02:29:08Z",
+            "owner": "octalmage",
+            "repo": "minum",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mitra Browser",
+          "description": "Electron Windows, macOS, Linux Minimalist and open-source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 369572831,
+            "language": "Python",
+            "last_commit": "2021-06-28T19:20:22Z",
+            "owner": "zaqas",
+            "repo": "Mitra",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "M — M Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from N.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nexus Browser",
+          "description": "Electron Windows Private browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 269413156,
+            "language": "Visual Basic .NET",
+            "last_commit": "2021-08-19T19:33:18Z",
+            "owner": "makdosx",
+            "repo": "nexus-browser",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ninetails",
+          "description": "Electron Windows, Linux, macOS Private, fast, and beautiful web browser",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 429572051,
+            "language": "JavaScript",
+            "last_commit": "2022-06-18T18:10:15Z",
+            "owner": "MystPi",
+            "repo": "ninetails",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ninja Browser",
+          "description": "WebKit macOS A browser for ninjas?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21296602,
+            "language": "JavaScript",
+            "last_commit": "2018-09-28T14:31:21Z",
+            "owner": "octalmage",
+            "repo": "Ninja-Browser",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "N — N Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from P.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PeerSky Browser",
+          "description": "Electron Windows, macOS, Linux A Peer-to-Peer, Local-First Browser Rebuilding the Web for Good.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633021526,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T03:54:33Z",
+            "owner": "p2plabsxyz",
+            "repo": "peersky-browser",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pennywise",
+          "description": "Electron Windows, macOS, Linux Open website or media in a floating window",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155110271,
+            "language": "JavaScript",
+            "last_commit": "2025-12-22T08:55:32Z",
+            "owner": "nilbuild",
+            "repo": "pennywise",
+            "stars": 3865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlasmaFox Browser",
+          "description": "Gecko Linux Modified Firefox with KDE features [Archived]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 188471502,
+            "language": "JavaScript",
+            "last_commit": "2021-05-31T20:12:56Z",
+            "owner": "torvic9",
+            "repo": "plasmafox",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pocket Browser",
+          "description": "Electron Windows, macOS, Linux Open-source browser for privacy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 269932713,
+            "language": "JavaScript",
+            "last_commit": "2023-02-05T07:59:48Z",
+            "owner": "PocketStudios",
+            "repo": "Pocket-Browser",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PolyBrowser",
+          "description": "Electron Windows, macOS, Linux The \"Panoramic\" Web Browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26098457,
+            "language": "JavaScript",
+            "last_commit": "2016-11-25T19:33:14Z",
+            "owner": "PolySuite",
+            "repo": "PolyBrowser",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerFox Browser",
+          "description": "Goanna macOS A secure, modern, and open-source web browser for Mac OS X 10.6, 10.5, and 10.4 for Intel and PowerPC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1127487255,
+            "language": "C++",
+            "last_commit": "2026-08-23T05:47:04Z",
+            "owner": "Jazzzny",
+            "repo": "powerfox-browser",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Programmer Browser",
+          "description": "Electron Windows, Linux Fast-searching browser for programmers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 496476232,
+            "language": "TypeScript",
+            "last_commit": "2023-06-03T19:11:38Z",
+            "owner": "yessGlory17",
+            "repo": "programmer-browser",
+            "stars": 597
+          }
+        }
+      ],
+      "title": "P — P Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from S.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SeaLion",
+          "description": "Gecko macOS Web browser for Mac OS X and Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630691831,
+            "language": "JavaScript",
+            "last_commit": "2026-06-14T01:24:44Z",
+            "owner": "wicknix",
+            "repo": "SeaLion",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SharpBrowser",
+          "description": "CefSharp Windows Full featured web-browser in C#",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65129827,
+            "language": "C#",
+            "last_commit": "2025-04-22T09:57:49Z",
+            "owner": "sharpbrowser",
+            "repo": "SharpBrowser",
+            "stars": 1023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skye",
+          "description": "Electron Windows, Linux, macOS Modern and feature-rich web browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 381811189,
+            "language": "TypeScript",
+            "last_commit": "2023-07-29T01:24:46Z",
+            "owner": "skyebrowser",
+            "repo": "skye",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Split Browser",
+          "description": "WebKit, WebKitGTK, Edge WebView2 macOS, Linux, Windows Minimalistic browser with split screen view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 512548747,
+            "language": "C",
+            "last_commit": "2026-02-11T23:40:34Z",
+            "owner": "niutech",
+            "repo": "splitbrowser",
+            "stars": 138
+          }
+        }
+      ],
+      "title": "S — S Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from T.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "theWeb",
+          "description": "QtWebEngine Windows, macOS, Linux A web browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202367661,
+            "language": "C++",
+            "last_commit": "2021-03-09T01:57:56Z",
+            "owner": "vicr123",
+            "repo": "theweb",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turbo",
+          "description": "Electron Windows, macOS, Linux The browser for developers [Archived]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 350854949,
+            "language": "TypeScript",
+            "last_commit": "2023-04-22T12:58:14Z",
+            "owner": "kevinjosethomas",
+            "repo": "turbo",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "T — T Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from U.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ultimatum",
+          "description": "Blink Windows Chromium fork with anti-detect browser capabilities, web3.0 support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 439110646,
+            "language": "C++",
+            "last_commit": "2026-06-30T12:05:17Z",
+            "owner": "gonzazoid",
+            "repo": "Ultimatum",
+            "stars": 1376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ungoogled Chromium",
+          "description": "Blink, V8 Windows, macOS, Linux, BSD Free and open-source Chromium variant without Google-specific web services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37347459,
+            "language": "Python",
+            "last_commit": "2026-08-21T18:25:02Z",
+            "owner": "ungoogled-software",
+            "repo": "ungoogled-chromium",
+            "stars": 27501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unstoppable Blockchain Browser",
+          "description": "Electron Windows, macOS Web browser for browsing the decentralized web. [Archived]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 215398116,
+            "language": "TypeScript",
+            "last_commit": "2022-03-02T00:55:13Z",
+            "owner": "unstoppabledomains",
+            "repo": "unstoppable-demo-browser",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "U — U Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from W.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebSM",
+          "description": "Microsoft WebView2, WebKit Windows, Linux Simple, minimalist Uno Platform based web browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 507651190,
+            "language": "C#",
+            "last_commit": "2026-02-10T08:09:55Z",
+            "owner": "v38armageddon",
+            "repo": "WebSM",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wexond Browser",
+          "description": "Electron Windows, macOS, Linux Modern browser built with Electron and React. [Archived]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 88184556,
+            "language": "TypeScript",
+            "last_commit": "2023-06-04T13:19:29Z",
+            "owner": "wexond",
+            "repo": "browser-base",
+            "stars": 2724
+          }
+        }
+      ],
+      "title": "W — W Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from Y.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yaeb Browser",
+          "description": "Electron Windows, macOS, Linux Minimalist Electron-based browser with API for webview manipulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66137168,
+            "language": "JavaScript",
+            "last_commit": "2020-07-07T00:27:55Z",
+            "owner": "bengl",
+            "repo": "yaeb",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Y — Y Named Browsers"
+    },
+    {
+      "description": "A curated collection of browsers named starting from Z.\n0-9 | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zervo",
+          "description": "Servo Windows, macOS, Linux A calm, workspace-oriented browser built on the Servo engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1339503128,
+            "language": "Rust",
+            "last_commit": "2026-08-23T16:04:55Z",
+            "owner": "Goddv",
+            "repo": "Zervo",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Z — Z Named Browsers"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T17:37:43.417Z",
+    "last_updated": "2026-08-24T14:20:20.499Z",
     "original_repository": "nerdyslacker/desktop-web-browsers",
     "original_repository_id": 644835363,
-    "original_repository_sha": "6b371783ff099117aa9b4cdab9554848ba0315c8",
+    "original_repository_sha": "8d28988fb3a2899e69803644258ec9da0574d887",
     "enhanced_repository": "enhansome/enhansome-desktop-web-browsers",
     "enhanced_repository_description": null,
     "title": "Awesome Desktop Web Browsers with stars"
