@@ -126,7 +126,7 @@
             "last_commit": "2026-08-19T17:18:58Z",
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3899
+            "stars": 3900
           }
         }
       ],
@@ -162,7 +162,7 @@
             "last_commit": "2024-07-01T14:31:50Z",
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19466
+            "stars": 19467
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 257841809,
             "language": "C++",
-            "last_commit": "2026-08-23T03:46:53Z",
+            "last_commit": "2026-08-25T03:44:44Z",
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8105
+            "stars": 8107
           }
         }
       ],
@@ -609,7 +609,7 @@
             "archived": false,
             "id": 633021526,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T03:54:33Z",
+            "last_commit": "2026-08-25T03:35:34Z",
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
             "stars": 84
@@ -684,10 +684,10 @@
             "archived": false,
             "id": 1127487255,
             "language": "C++",
-            "last_commit": "2026-08-23T05:47:04Z",
+            "last_commit": "2026-08-25T04:13:13Z",
             "owner": "Jazzzny",
             "repo": "powerfox-browser",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2026-08-21T18:25:02Z",
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27509
+            "stars": 27515
           }
         },
         {
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:49:07.897Z",
+    "last_updated": "2026-08-25T06:12:42.979Z",
     "original_repository": "nerdyslacker/desktop-web-browsers",
     "original_repository_id": 644835363,
     "original_repository_sha": "8d28988fb3a2899e69803644258ec9da0574d887",
