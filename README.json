@@ -162,7 +162,7 @@
             "last_commit": "2024-07-01T14:31:50Z",
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19467
+            "stars": 19464
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-23T19:51:20Z",
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1496
+            "stars": 1498
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2026-06-30T12:05:17Z",
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1376
+            "stars": 1377
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2026-08-21T18:25:02Z",
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27515
+            "stars": 27519
           }
         },
         {
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:42.979Z",
+    "last_updated": "2026-08-25T17:47:14.413Z",
     "original_repository": "nerdyslacker/desktop-web-browsers",
     "original_repository_id": 644835363,
     "original_repository_sha": "8d28988fb3a2899e69803644258ec9da0574d887",
