@@ -27,7 +27,7 @@
             "archived": false,
             "id": 152181901,
             "language": "C++",
-            "last_commit": "2026-08-21T22:34:31Z",
+            "last_commit": "2026-08-26T02:42:23Z",
             "owner": "rmottola",
             "repo": "Arctic-Fox",
             "stars": 501
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 222240688,
             "language": "Shell",
-            "last_commit": "2026-08-19T17:18:58Z",
+            "last_commit": "2026-08-26T10:06:46Z",
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3900
+            "stars": 3901
           }
         }
       ],
@@ -162,7 +162,7 @@
             "last_commit": "2024-07-01T14:31:50Z",
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19464
+            "stars": 19463
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 257841809,
             "language": "C++",
-            "last_commit": "2026-08-25T03:44:44Z",
+            "last_commit": "2026-08-26T02:48:54Z",
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8107
+            "stars": 8104
           }
         }
       ],
@@ -306,7 +306,7 @@
             "archived": false,
             "id": 372471005,
             "language": "CSS",
-            "last_commit": "2026-08-21T16:40:21Z",
+            "last_commit": "2026-08-26T17:26:14Z",
             "owner": "garuda-linux",
             "repo": "firedragon",
             "stars": 398
@@ -351,7 +351,7 @@
             "last_commit": "2024-04-26T05:21:35Z",
             "owner": "pulse-browser",
             "repo": "experiment",
-            "stars": 52
+            "stars": 51
           }
         }
       ],
@@ -411,7 +411,7 @@
             "archived": false,
             "id": 295608796,
             "language": "C",
-            "last_commit": "2026-08-23T19:51:20Z",
+            "last_commit": "2026-08-26T18:47:25Z",
             "owner": "skyjake",
             "repo": "lagrange",
             "stars": 1498
@@ -495,7 +495,7 @@
             "last_commit": "2026-08-14T23:51:37Z",
             "owner": "Erizur",
             "repo": "Marble",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -609,10 +609,10 @@
             "archived": false,
             "id": 633021526,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T03:35:34Z",
+            "last_commit": "2026-08-26T06:59:13Z",
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2025-12-22T08:55:32Z",
             "owner": "nilbuild",
             "repo": "pennywise",
-            "stars": 3865
+            "stars": 3867
           }
         },
         {
@@ -684,7 +684,7 @@
             "archived": false,
             "id": 1127487255,
             "language": "C++",
-            "last_commit": "2026-08-25T04:13:13Z",
+            "last_commit": "2026-08-26T16:10:31Z",
             "owner": "Jazzzny",
             "repo": "powerfox-browser",
             "stars": 161
@@ -825,7 +825,7 @@
             "last_commit": "2026-06-30T12:05:17Z",
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1377
+            "stars": 1378
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2026-08-21T18:25:02Z",
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27519
+            "stars": 27528
           }
         },
         {
@@ -933,7 +933,7 @@
             "last_commit": "2026-08-23T16:04:55Z",
             "owner": "Goddv",
             "repo": "Zervo",
-            "stars": 30
+            "stars": 33
           }
         }
       ],
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:47:14.413Z",
+    "last_updated": "2026-08-26T19:22:18.494Z",
     "original_repository": "nerdyslacker/desktop-web-browsers",
     "original_repository_id": 644835363,
     "original_repository_sha": "8d28988fb3a2899e69803644258ec9da0574d887",
