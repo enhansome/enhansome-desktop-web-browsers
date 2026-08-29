@@ -44,11 +44,11 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T06:15:20Z",
+            "last_commit": "2026-08-29T18:44:00Z",
             "open_issues": 76,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
-            "stars": 501,
+            "stars": 500,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3902,
+            "stars": 3903,
             "topics": [
               "browser",
               "cdr",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19465,
+            "stars": 19466,
             "topics": [
               "browser",
               "chromium",
@@ -398,11 +398,11 @@
             "id": 257841809,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T12:56:54Z",
+            "last_commit": "2026-08-29T14:22:16Z",
             "open_issues": 543,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8115,
+            "stars": 8120,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -543,7 +543,7 @@
             "open_issues": 50,
             "owner": "garuda-linux",
             "repo": "firedragon",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "browser",
               "firedragon",
@@ -686,7 +686,7 @@
             "id": 295608796,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-27T06:29:08Z",
+            "last_commit": "2026-08-29T12:32:00Z",
             "open_issues": 155,
             "owner": "skyjake",
             "repo": "lagrange",
@@ -1146,10 +1146,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-27T00:49:12Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "Jazzzny",
             "repo": "powerfox-browser",
-            "stars": 163,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1232,7 +1232,7 @@
             "open_issues": 17,
             "owner": "sharpbrowser",
             "repo": "SharpBrowser",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1368,7 +1368,7 @@
             "open_issues": 110,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1382,
+            "stars": 1383,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1389,7 +1389,7 @@
             "open_issues": 181,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27548,
+            "stars": 27551,
             "topics": [
               "chromium",
               "control",
@@ -1552,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:00.195Z",
+    "last_updated": "2026-08-29T19:46:52.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
