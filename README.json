@@ -16,7 +16,8 @@
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
             "stars": 921
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 152181901,
             "language": "C++",
-            "last_commit": "2026-08-27T19:35:41Z",
+            "last_commit": "2026-08-28T06:15:20Z",
             "owner": "rmottola",
             "repo": "Arctic-Fox",
             "stars": 501
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "kingbri1",
             "repo": "Asobi",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "A — A Named Browsers"
@@ -67,7 +70,8 @@
             "owner": "beakerbrowser",
             "repo": "beaker",
             "stars": 6744
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "beamlegacy",
             "repo": "beam",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "BonBon-exchange",
             "repo": "bonbon-browser",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "pioplo",
             "repo": "Borneo",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "BrowserBox",
             "repo": "BrowserBox",
             "stars": 3902
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "B — B Named Browsers"
@@ -148,7 +156,8 @@
             "owner": "CachyOS",
             "repo": "CachyOS-Browser-Settings",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -162,8 +171,9 @@
             "last_commit": "2024-07-01T14:31:50Z",
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19465
-          }
+            "stars": 19466
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "CatalystDevOrg",
             "repo": "Catalyst",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "deemru",
             "repo": "Chromium-Gost",
             "stars": 583
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "leonaaraujo",
             "repo": "companion",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -219,11 +232,12 @@
             "archived": false,
             "id": 257841809,
             "language": "C++",
-            "last_commit": "2026-08-27T13:40:51Z",
+            "last_commit": "2026-08-28T12:56:54Z",
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8115
-          }
+            "stars": 8116
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "C — C Named Browsers"
@@ -244,7 +258,8 @@
             "owner": "dBrowser",
             "repo": "dbrowser",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "gab-ai-inc",
             "repo": "defiant-browser",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "D — D Named Browsers"
@@ -280,7 +296,8 @@
             "owner": "raluvy95",
             "repo": "FelidaBrowser",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "snaildos",
             "repo": "Fifo-Browser",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -306,11 +324,12 @@
             "archived": false,
             "id": 372471005,
             "language": "CSS",
-            "last_commit": "2026-08-27T16:52:53Z",
+            "last_commit": "2026-08-28T08:17:19Z",
             "owner": "garuda-linux",
             "repo": "firedragon",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "F — F Named Browsers"
@@ -331,7 +350,8 @@
             "owner": "revblaze",
             "repo": "Glow",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "G — G Named Browsers"
@@ -352,7 +372,8 @@
             "owner": "pulse-browser",
             "repo": "experiment",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "H — H Named Browsers"
@@ -373,7 +394,8 @@
             "owner": "wicknix",
             "repo": "InterWebSnow",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "I — I Named Browsers"
@@ -394,7 +416,8 @@
             "owner": "azer",
             "repo": "kaktus",
             "stars": 412
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "K — K Named Browsers"
@@ -415,7 +438,8 @@
             "owner": "skyjake",
             "repo": "lagrange",
             "stars": 1498
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -430,7 +454,8 @@
             "owner": "raphipod",
             "repo": "LightBrowser-2020",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -445,7 +470,8 @@
             "owner": "lirios",
             "repo": "browser",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -460,7 +486,8 @@
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -475,7 +502,8 @@
             "owner": "LulumiProject",
             "repo": "lulumi-browser",
             "stars": 441
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "L — L Named Browsers"
@@ -496,7 +524,8 @@
             "owner": "Erizur",
             "repo": "Marble",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -511,7 +540,8 @@
             "owner": "cprussin",
             "repo": "minichrome",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -526,7 +556,8 @@
             "owner": "octalmage",
             "repo": "minum",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -541,7 +572,8 @@
             "owner": "zaqas",
             "repo": "Mitra",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "M — M Named Browsers"
@@ -562,7 +594,8 @@
             "owner": "makdosx",
             "repo": "nexus-browser",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -577,7 +610,8 @@
             "owner": "MystPi",
             "repo": "ninetails",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -592,7 +626,8 @@
             "owner": "octalmage",
             "repo": "Ninja-Browser",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "N — N Named Browsers"
@@ -609,11 +644,12 @@
             "archived": false,
             "id": 633021526,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T23:16:49Z",
+            "last_commit": "2026-08-28T02:39:02Z",
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -628,7 +664,8 @@
             "owner": "nilbuild",
             "repo": "pennywise",
             "stars": 3867
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -643,7 +680,8 @@
             "owner": "torvic9",
             "repo": "plasmafox",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -658,7 +696,8 @@
             "owner": "PocketStudios",
             "repo": "Pocket-Browser",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -673,7 +712,8 @@
             "owner": "PolySuite",
             "repo": "PolyBrowser",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -688,7 +728,8 @@
             "owner": "Jazzzny",
             "repo": "powerfox-browser",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -703,7 +744,8 @@
             "owner": "yessGlory17",
             "repo": "programmer-browser",
             "stars": 597
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "P — P Named Browsers"
@@ -724,7 +766,8 @@
             "owner": "wicknix",
             "repo": "SeaLion",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -739,7 +782,8 @@
             "owner": "sharpbrowser",
             "repo": "SharpBrowser",
             "stars": 1023
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -754,7 +798,8 @@
             "owner": "skyebrowser",
             "repo": "skye",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -769,7 +814,8 @@
             "owner": "niutech",
             "repo": "splitbrowser",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "S — S Named Browsers"
@@ -790,7 +836,8 @@
             "owner": "vicr123",
             "repo": "theweb",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -805,7 +852,8 @@
             "owner": "kevinjosethomas",
             "repo": "turbo",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "T — T Named Browsers"
@@ -825,8 +873,9 @@
             "last_commit": "2026-06-30T12:05:17Z",
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1379
-          }
+            "stars": 1382
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -840,8 +889,9 @@
             "last_commit": "2026-08-27T12:42:01Z",
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27535
-          }
+            "stars": 27546
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -856,7 +906,8 @@
             "owner": "unstoppabledomains",
             "repo": "unstoppable-demo-browser",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "U — U Named Browsers"
@@ -877,7 +928,8 @@
             "owner": "v38armageddon",
             "repo": "WebSM",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         },
         {
           "node_type": "item",
@@ -892,7 +944,8 @@
             "owner": "wexond",
             "repo": "browser-base",
             "stars": 2724
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "W — W Named Browsers"
@@ -913,7 +966,8 @@
             "owner": "bengl",
             "repo": "yaeb",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "Y — Y Named Browsers"
@@ -933,15 +987,16 @@
             "last_commit": "2026-08-23T16:04:55Z",
             "owner": "Goddv",
             "repo": "Zervo",
-            "stars": 33
-          }
+            "stars": 35
+          },
+          "first_seen": "2026-08-29T00:59:02.278Z"
         }
       ],
       "title": "Z — Z Named Browsers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:30:29.281Z",
+    "last_updated": "2026-08-29T00:59:02.278Z",
     "original_repository_info": {
       "archived": false,
       "id": 644835363,
