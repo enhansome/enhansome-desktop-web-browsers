@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal browser for the distributed web (Desktop version)",
+            "homepage": "https://www.youtube.com/watch?v=TnYKvOQB0ts&list=PL7sG5SCUNyeYx8wnfMOUpsh7rM_g0w_cu&index=14",
             "id": 271903277,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-13T14:45:15Z",
+            "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 921
+            "stars": 921,
+            "topics": [
+              "browser",
+              "decentralization",
+              "dweb",
+              "hypercore-protocol",
+              "ipfs",
+              "p2p",
+              "ssb"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Browser for Mac OS X 10.6+, Linux (PowerPC, x86, amd64, ARM, MIPS), NetBSD, OpenBSD, and Windows XP.",
+            "homepage": null,
             "id": 152181901,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T06:15:20Z",
+            "open_issues": 76,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
-            "stars": 501
+            "stars": 501,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -42,12 +60,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An immersive browser app for iPhones, iPads, and MacCatalyst",
+            "homepage": null,
             "id": 392064132,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-04T18:42:16Z",
+            "open_issues": 7,
             "owner": "kingbri1",
             "repo": "Asobi",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "browser",
+              "hacktoberfest",
+              "ios",
+              "maccatalyst",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -64,12 +93,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An experimental peer-to-peer Web browser",
+            "homepage": "https://beakerbrowser.com/",
             "id": 59700207,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-27T21:47:18Z",
+            "open_issues": 218,
             "owner": "beakerbrowser",
             "repo": "beaker",
-            "stars": 6744
+            "stars": 6744,
+            "topics": [
+              "beaker",
+              "browser",
+              "decentralized",
+              "electron",
+              "hypercore",
+              "hyperdrive",
+              "hyperspace",
+              "p2p",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -80,12 +124,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A new way to experience the Internet.",
+            "homepage": "https://beamlegacy.github.io/www/",
             "id": 618766633,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-10T15:09:01Z",
+            "open_issues": 7,
             "owner": "beamlegacy",
             "repo": "beam",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "adblocker",
+              "bookmarks",
+              "bookmarks-manager",
+              "browser",
+              "capture",
+              "journal",
+              "macos",
+              "notebook",
+              "notes",
+              "swift",
+              "swiftui",
+              "webbrowser",
+              "webkit"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -96,12 +159,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BonBon browser",
+            "homepage": null,
             "id": 508826004,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-20T08:06:13Z",
+            "open_issues": 28,
             "owner": "BonBon-exchange",
             "repo": "bonbon-browser",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "browser",
+              "electron",
+              "privacy",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -112,12 +185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and minimalist web browser using QtWebKit.",
+            "homepage": null,
             "id": 14734753,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2013-12-23T19:43:59Z",
+            "open_issues": 1,
             "owner": "pioplo",
             "repo": "Borneo",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -128,12 +206,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. ",
+            "homepage": "https://browserbox.io",
             "id": 222240688,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T10:06:46Z",
+            "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3902
+            "stars": 3902,
+            "topics": [
+              "browser",
+              "cdr",
+              "chrome",
+              "cobrowsing",
+              "cybersecurity",
+              "embeddable",
+              "hidden-services",
+              "multiplayer",
+              "onion-service",
+              "proxy-server",
+              "rbi",
+              "remote-browser-isolation",
+              "remote-browsers",
+              "reverse-proxy",
+              "sanitization",
+              "tor",
+              "web-browser",
+              "web-isolation",
+              "webrtc",
+              "zero-trust"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -150,12 +254,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "All the settings files that form the core of Cachy Browser",
+            "homepage": null,
             "id": 401616171,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2025-03-05T20:48:27Z",
+            "open_issues": 7,
             "owner": "CachyOS",
             "repo": "CachyOS-Browser-Settings",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "browser",
+              "firefox",
+              "librewolf",
+              "privacy",
+              "settings"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -166,12 +281,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chromium running inside your terminal",
+            "homepage": null,
             "id": 591273534,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-01T14:31:50Z",
+            "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19466
+            "stars": 19465,
+            "topics": [
+              "browser",
+              "chromium",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -182,12 +306,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal, functional, and customizable user-focused FOSS web browser",
+            "homepage": "https://getcatalyst.eu.org",
             "id": 439734202,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T12:59:25Z",
+            "open_issues": 17,
             "owner": "CatalystDevOrg",
             "repo": "Catalyst",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "browser",
+              "chromium",
+              "foss",
+              "minimal",
+              "open-source",
+              "user-focused",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -198,12 +335,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chromium с поддержкой алгоритмов ГОСТ",
+            "homepage": "https://www.cryptopro.ru/forum2/default.aspx?g=posts&t=9991",
             "id": 80726665,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-10T11:52:25Z",
+            "open_issues": 29,
             "owner": "deemru",
             "repo": "Chromium-Gost",
-            "stars": 583
+            "stars": 583,
+            "topics": [
+              "boringssl",
+              "chromium",
+              "cryptography",
+              "gost",
+              "msspi",
+              "ssl",
+              "sspi",
+              "tls"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -214,12 +365,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Did you know Compy, The Companion? They are a friendly mini browser to pin on top of any other desktop app and keep doing your stuff while enjoying a live stream, video on demand, or consulting any web content.",
+            "homepage": "http://getcompy.com",
             "id": 122005605,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T12:28:24Z",
+            "open_issues": 10,
             "owner": "leonaaraujo",
             "repo": "companion",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "app",
+              "browser",
+              "client",
+              "companion",
+              "electron",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -230,12 +393,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!",
+            "homepage": "https://www.cromite.org/",
             "id": 257841809,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T12:56:54Z",
+            "open_issues": 543,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8116
+            "stars": 8115,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -252,12 +420,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dBrowser is a web browser for Web3, integrated with IPFS, SSB, Hypercore, Unstoppable Domains and more.",
+            "homepage": "http://dbrowser.com",
             "id": 302356808,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-04T10:02:29Z",
+            "open_issues": 4,
             "owner": "dBrowser",
             "repo": "dbrowser",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "browser",
+              "dbrowser",
+              "hypercore",
+              "ipfs",
+              "unstoppable-domains",
+              "web-browser",
+              "web3",
+              "web3-browser"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -268,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Welcome to the free speech Internet.",
+            "homepage": null,
             "id": 184648845,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2021-08-12T02:17:40Z",
+            "open_issues": 36,
             "owner": "gab-ai-inc",
             "repo": "defiant-browser",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -290,12 +477,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A lightweight Chromium Browser using Electron.js!",
+            "homepage": null,
             "id": 271485606,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-07T20:56:39Z",
+            "open_issues": 5,
             "owner": "raluvy95",
             "repo": "FelidaBrowser",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "browser",
+              "chromium",
+              "chromium-browser",
+              "chromium-browsers",
+              "electron",
+              "electronjs",
+              "javascript",
+              "lightweight",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -306,12 +508,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fifo Browser",
+            "homepage": "https://fifo.snaildos.com",
             "id": 399391518,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-07T10:53:39Z",
+            "open_issues": 30,
             "owner": "snaildos",
             "repo": "Fifo-Browser",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "browser",
+              "electron",
+              "modern",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -322,12 +534,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FireDragon is a cross-platform, feature-rich and privacy-focused web browser (mirrored from GitLab)",
+            "homepage": "https://firedragon.garudalinux.org",
             "id": 372471005,
             "language": "CSS",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T08:17:19Z",
+            "open_issues": 50,
             "owner": "garuda-linux",
             "repo": "firedragon",
-            "stars": 398
+            "stars": 398,
+            "topics": [
+              "browser",
+              "firedragon",
+              "firefox",
+              "garuda-linux",
+              "privacy"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -344,12 +567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A light-weight web browser built for speed, performance and above all, beauty.",
+            "homepage": "https://glowbrowser.com",
             "id": 111466292,
             "language": "Swift",
+            "license": null,
             "last_commit": "2019-11-13T03:24:17Z",
+            "open_issues": 1,
             "owner": "revblaze",
             "repo": "Glow",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -366,12 +594,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Another Gecko browser",
+            "homepage": null,
             "id": 585778016,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2024-04-26T05:21:35Z",
+            "open_issues": 37,
             "owner": "pulse-browser",
             "repo": "experiment",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "browser",
+              "firefox",
+              "firefox-based",
+              "gecko",
+              "gecko-based"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -388,12 +627,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web browser for  OS X 10.6.8 Snow Leopard ",
+            "homepage": "https://randommacstuff.blogspot.com/p/interweb-browser.html ",
             "id": 393852279,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-10-18T02:06:52Z",
+            "open_issues": 4,
             "owner": "wicknix",
             "repo": "InterWebSnow",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -410,12 +654,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Experimental web browser with minimalistic design",
+            "homepage": null,
             "id": 69702570,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-10-09T11:05:54Z",
+            "open_issues": 13,
             "owner": "azer",
             "repo": "kaktus",
-            "stars": 412
+            "stars": 412,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -432,12 +681,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Beautiful Gemini Client",
+            "homepage": "https://gmi.skyjake.fi/lagrange/",
             "id": 295608796,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-27T06:29:08Z",
+            "open_issues": 155,
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1498
+            "stars": 1498,
+            "topics": [
+              "c11",
+              "client",
+              "desktop",
+              "gemini",
+              "gui",
+              "linux",
+              "macos",
+              "network",
+              "openssl",
+              "raspberrypi",
+              "sdl",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -448,12 +715,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🌎 An open-source web browser built with CefSharp.",
+            "homepage": "https://bavarianbytes.itch.io/lightbrowser-2020",
             "id": 251438753,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-12-18T15:24:40Z",
+            "open_issues": 1,
             "owner": "raphipod",
             "repo": "LightBrowser-2020",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "browser",
+              "cefsharp-winforms",
+              "chromium-browser",
+              "itchio",
+              "webbrowser"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -464,12 +742,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":earth_africa: Cross-platform Material design web browser",
+            "homepage": null,
             "id": 68911286,
             "language": "QML",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-28T04:33:49Z",
+            "open_issues": 26,
             "owner": "lirios",
             "repo": "browser",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "browser",
+              "hacktoberfest",
+              "liri",
+              "material-design",
+              "qt",
+              "qt-quick"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -480,12 +770,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lobo Evolution Java Web Browser. Forks welcome! ",
+            "homepage": "https://loboevolution.github.io/LoboEvolution/project-info.html",
             "id": 25392674,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:16:44Z",
+            "open_issues": 3,
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "browser",
+              "browser-api",
+              "browser-css",
+              "css",
+              "cssparser",
+              "java",
+              "java-8",
+              "javascript",
+              "lobo-browser",
+              "lobo-evolution",
+              "pure-java",
+              "rhino",
+              "svg",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -496,12 +806,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lulumi-browser is a lightweight browser coded with Vue.js 2 and Electron.",
+            "homepage": null,
             "id": 79984251,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-10T16:57:38Z",
+            "open_issues": 46,
             "owner": "LulumiProject",
             "repo": "lulumi-browser",
-            "stars": 441
+            "stars": 441,
+            "topics": [
+              "browser",
+              "electron",
+              "electron-vue",
+              "extensions",
+              "framework",
+              "lightweight",
+              "vue",
+              "vue-cli",
+              "vue-router",
+              "vuejs",
+              "vuejs2",
+              "vuex"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -518,12 +846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firefox fork that aims to restore the Photon user interface, along with native controls that were removed in newer versions of Firefox. ",
+            "homepage": null,
             "id": 1004717126,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-14T23:51:37Z",
+            "open_issues": 1,
             "owner": "Erizur",
             "repo": "Marble",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -534,12 +867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal web browser built for tiling window managers",
+            "homepage": null,
             "id": 146662386,
             "language": "PureScript",
+            "license": null,
             "last_commit": "2019-02-17T18:43:24Z",
+            "open_issues": 14,
             "owner": "cprussin",
             "repo": "minichrome",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -550,12 +888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A new minimal web browsing experience.",
+            "homepage": null,
             "id": 35435861,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-02T02:29:08Z",
+            "open_issues": 5,
             "owner": "octalmage",
             "repo": "minum",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -566,12 +909,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist Web Browser",
+            "homepage": null,
             "id": 369572831,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-28T19:20:22Z",
+            "open_issues": 0,
             "owner": "zaqas",
             "repo": "Mitra",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "mitra",
+              "pyqt5",
+              "python",
+              "web-browser"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -588,12 +941,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":lollipop:  nexus-browser is a private browser",
+            "homepage": null,
             "id": 269413156,
             "language": "Visual Basic .NET",
+            "license": "AGPL-3.0",
             "last_commit": "2021-08-19T19:33:18Z",
+            "open_issues": 1,
             "owner": "makdosx",
             "repo": "nexus-browser",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -604,12 +962,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A private, fast, and beautiful web browser.",
+            "homepage": null,
             "id": 429572051,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-18T18:10:15Z",
+            "open_issues": 0,
             "owner": "MystPi",
             "repo": "ninetails",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "electron",
+              "tailwindcss",
+              "webbrowser"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -620,12 +987,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A browser for ninjas?",
+            "homepage": null,
             "id": 21296602,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2018-09-28T14:31:21Z",
+            "open_issues": 19,
             "owner": "octalmage",
             "repo": "Ninja-Browser",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "electron"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -642,12 +1016,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A peer-to-peer web browser",
+            "homepage": "https://peersky.p2plabs.xyz/",
             "id": 633021526,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:39:02Z",
+            "open_issues": 14,
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "bittorent",
+              "browser",
+              "decentralized",
+              "dweb",
+              "hypercore-protocol",
+              "ipfs",
+              "local-first",
+              "local-llm",
+              "p2p",
+              "peersky",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -658,12 +1049,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform application to open any website or media in a floating window",
+            "homepage": null,
             "id": 155110271,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-22T08:55:32Z",
+            "open_issues": 56,
             "owner": "nilbuild",
             "repo": "pennywise",
-            "stars": 3867
+            "stars": 3867,
+            "topics": [
+              "cross-platform",
+              "electron",
+              "electron-app",
+              "floating-window",
+              "pennywise",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -674,12 +1077,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Plasmafox web browser",
+            "homepage": null,
             "id": 188471502,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-31T20:12:56Z",
+            "open_issues": 0,
             "owner": "torvic9",
             "repo": "plasmafox",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -690,12 +1098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source browser made for privacy and going towards security.",
+            "homepage": null,
             "id": 269932713,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-05T07:59:48Z",
+            "open_issues": 3,
             "owner": "PocketStudios",
             "repo": "Pocket-Browser",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -706,12 +1119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PolyBrowser, the \"Panoramic\" Web Browser.",
+            "homepage": null,
             "id": 26098457,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2016-11-25T19:33:14Z",
+            "open_issues": 19,
             "owner": "PolySuite",
             "repo": "PolyBrowser",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -722,12 +1140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A secure, modern, and open-source web browser for Mac OS X 10.6 Snow Leopard, 10.5 Leopard, 10.4 Tiger, and 10.3 Panther for Intel and PowerPC.",
+            "homepage": "https://powerfox.org",
             "id": 1127487255,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T00:49:12Z",
+            "open_issues": 16,
             "owner": "Jazzzny",
             "repo": "powerfox-browser",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -738,12 +1161,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast-searching and space-saving browser specially designed for programmers.",
+            "homepage": "https://yessglory17.github.io/programmer-browser.github.io/",
             "id": 496476232,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-06-03T19:11:38Z",
+            "open_issues": 19,
             "owner": "yessGlory17",
             "repo": "programmer-browser",
-            "stars": 597
+            "stars": 597,
+            "topics": [
+              "browser",
+              "javascript",
+              "react",
+              "reactjs",
+              "tyepscript",
+              "web-browser",
+              "webbrowser"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -760,12 +1196,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web browser for MacOS 10.7 - 14.8 and Linux.",
+            "homepage": null,
             "id": 630691831,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-06-14T01:24:44Z",
+            "open_issues": 6,
             "owner": "wicknix",
             "repo": "SeaLion",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "browser",
+              "linux",
+              "osx",
+              "powerpc",
+              "retro"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -776,12 +1223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full featured web-browser built using C# and CefSharp",
+            "homepage": null,
             "id": 65129827,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-04-22T09:57:49Z",
+            "open_issues": 17,
             "owner": "sharpbrowser",
             "repo": "SharpBrowser",
-            "stars": 1023
+            "stars": 1023,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -792,12 +1244,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern and feature-rich web browser",
+            "homepage": null,
             "id": 381811189,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-07-29T01:24:46Z",
+            "open_issues": 42,
             "owner": "skyebrowser",
             "repo": "skye",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "browser",
+              "privacy",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -808,12 +1269,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Split Browser - a minimalistic, ultra-lightweight, open source web browser based on WebKit/Ultralight/native webview with a split screen (tiled) view",
+            "homepage": "https://niutech.github.io/splitbrowser/",
             "id": 512548747,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-02-11T23:40:34Z",
+            "open_issues": 10,
             "owner": "niutech",
             "repo": "splitbrowser",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "browser",
+              "qt",
+              "split-screen",
+              "web",
+              "webkit",
+              "webview",
+              "webview2"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -830,12 +1304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Browser",
+            "homepage": null,
             "id": 202367661,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2021-03-09T01:57:56Z",
+            "open_issues": 1,
             "owner": "vicr123",
             "repo": "theweb",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -846,12 +1325,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⚡ Turbo - the browser for developers",
+            "homepage": "https://turbobrowser.io",
             "id": 350854949,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-22T12:58:14Z",
+            "open_issues": 7,
             "owner": "kevinjosethomas",
             "repo": "turbo",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "browser",
+              "electron",
+              "node",
+              "nodejs",
+              "react",
+              "web-browser"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -868,12 +1359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more",
+            "homepage": null,
             "id": 439110646,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-30T12:05:17Z",
+            "open_issues": 110,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1382
+            "stars": 1382,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -884,12 +1380,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Chromium, sans integration with Google",
+            "homepage": null,
             "id": 37347459,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T12:42:01Z",
+            "open_issues": 181,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27546
+            "stars": 27548,
+            "topics": [
+              "chromium",
+              "control",
+              "google-chromium",
+              "inox",
+              "iridium",
+              "privacy",
+              "transparency"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -900,12 +1409,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Demo Browser For Developer",
+            "homepage": null,
             "id": 215398116,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-03-02T00:55:13Z",
+            "open_issues": 8,
             "owner": "unstoppabledomains",
             "repo": "unstoppable-demo-browser",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -922,12 +1436,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simply minimalist web browser.",
+            "homepage": "https://www.v38armageddon.net/Software/WebSM",
             "id": 507651190,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-10T08:09:55Z",
+            "open_issues": 2,
             "owner": "v38armageddon",
             "repo": "WebSM",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "android",
+              "csharp",
+              "linux",
+              "uno-platform",
+              "webbrowser",
+              "webview2",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         },
@@ -938,12 +1465,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Modern and feature-rich web browser base based on Electron",
+            "homepage": "https://wexond.net",
             "id": 88184556,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-06-04T13:19:29Z",
+            "open_issues": 104,
             "owner": "wexond",
             "repo": "browser-base",
-            "stars": 2724
+            "stars": 2724,
+            "topics": [
+              "browser",
+              "chromium",
+              "desktop",
+              "electron",
+              "extensions",
+              "javascript",
+              "material",
+              "plugins",
+              "privacy",
+              "react",
+              "themes",
+              "typescript",
+              "wexond"
+            ]
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -960,12 +1506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist web browser",
+            "homepage": null,
             "id": 66137168,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-07-07T00:27:55Z",
+            "open_issues": 1,
             "owner": "bengl",
             "repo": "yaeb",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -982,12 +1533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A calm, workspace-oriented browser built on the Servo engine.",
+            "homepage": null,
             "id": 1339503128,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-23T16:04:55Z",
+            "open_issues": 1,
             "owner": "Goddv",
             "repo": "Zervo",
-            "stars": 35
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
         }
@@ -996,15 +1552,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:59:02.278Z",
+    "last_updated": "2026-08-29T04:43:00.195Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Almost full list of all desktop web browsers",
+      "homepage": "https://nerdyslacker.github.io/desktop-web-browsers/",
       "id": 644835363,
       "language": "HTML",
+      "license": null,
       "last_commit": "2026-08-24T09:49:31Z",
+      "open_issues": 2,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
-      "stars": 604
+      "stars": 604,
+      "topics": [
+        "awesome-list",
+        "blink",
+        "browsers",
+        "chromium",
+        "desktop",
+        "gecko",
+        "linux",
+        "mac",
+        "web",
+        "webkit",
+        "windows"
+      ]
     },
     "original_repository_sha": "8d28988fb3a2899e69803644258ec9da0574d887",
     "enhanced_repository": "enhansome/enhansome-desktop-web-browsers",
