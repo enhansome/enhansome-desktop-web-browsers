@@ -44,7 +44,7 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T15:28:30Z",
+            "last_commit": "2026-09-04T16:45:31Z",
             "open_issues": 76,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
@@ -102,7 +102,7 @@
             "open_issues": 218,
             "owner": "beakerbrowser",
             "repo": "beaker",
-            "stars": 6743,
+            "stars": 6744,
             "topics": [
               "beaker",
               "browser",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19477,
+            "stars": 19475,
             "topics": [
               "browser",
               "chromium",
@@ -340,7 +340,7 @@
             "id": 80726665,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-10T11:52:25Z",
+            "last_commit": "2026-09-04T12:46:15Z",
             "open_issues": 30,
             "owner": "deemru",
             "repo": "Chromium-Gost",
@@ -398,11 +398,11 @@
             "id": 257841809,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T07:42:20Z",
-            "open_issues": 548,
+            "last_commit": "2026-09-04T06:00:41Z",
+            "open_issues": 549,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8139,
+            "stars": 8144,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -539,7 +539,7 @@
             "id": 372471005,
             "language": "CSS",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-01T17:58:19Z",
+            "last_commit": "2026-09-04T05:41:39Z",
             "open_issues": 50,
             "owner": "garuda-linux",
             "repo": "firedragon",
@@ -690,7 +690,7 @@
             "open_issues": 156,
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1501,
+            "stars": 1502,
             "topics": [
               "c11",
               "client",
@@ -1022,7 +1022,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-03T01:48:52Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
             "stars": 87,
@@ -1058,7 +1058,7 @@
             "open_issues": 56,
             "owner": "nilbuild",
             "repo": "pennywise",
-            "stars": 3867,
+            "stars": 3868,
             "topics": [
               "cross-platform",
               "electron",
@@ -1385,11 +1385,11 @@
             "id": 37347459,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-02T20:39:39Z",
-            "open_issues": 186,
+            "last_commit": "2026-09-04T11:09:59Z",
+            "open_issues": 182,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27601,
+            "stars": 27607,
             "topics": [
               "chromium",
               "control",
@@ -1474,7 +1474,7 @@
             "open_issues": 104,
             "owner": "wexond",
             "repo": "browser-base",
-            "stars": 2721,
+            "stars": 2720,
             "topics": [
               "browser",
               "chromium",
@@ -1552,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:52:58.973Z",
+    "last_updated": "2026-09-04T19:39:07.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1564,7 +1564,7 @@
       "open_issues": 2,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
-      "stars": 608,
+      "stars": 606,
       "topics": [
         "awesome-list",
         "blink",
