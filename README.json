@@ -44,7 +44,7 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T20:33:54Z",
+            "last_commit": "2026-09-21T21:08:32Z",
             "open_issues": 77,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
@@ -211,7 +211,7 @@
             "id": 222240688,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T02:29:30Z",
+            "last_commit": "2026-09-22T07:49:21Z",
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19502,
+            "stars": 19499,
             "topics": [
               "browser",
               "chromium",
@@ -340,11 +340,11 @@
             "id": 80726665,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-19T22:19:36Z",
+            "last_commit": "2026-09-22T16:36:19Z",
             "open_issues": 33,
             "owner": "deemru",
             "repo": "Chromium-Gost",
-            "stars": 600,
+            "stars": 601,
             "topics": [
               "boringssl",
               "chromium",
@@ -399,10 +399,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-21T10:14:01Z",
-            "open_issues": 555,
+            "open_issues": 557,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8252,
+            "stars": 8257,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -539,7 +539,7 @@
             "id": 372471005,
             "language": "CSS",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-20T08:06:58Z",
+            "last_commit": "2026-09-22T14:42:17Z",
             "open_issues": 51,
             "owner": "garuda-linux",
             "repo": "firedragon",
@@ -690,7 +690,7 @@
             "open_issues": 157,
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1507,
+            "stars": 1510,
             "topics": [
               "c11",
               "client",
@@ -1386,10 +1386,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-21T13:02:09Z",
-            "open_issues": 180,
+            "open_issues": 183,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27756,
+            "stars": 27764,
             "topics": [
               "chromium",
               "control",
@@ -1552,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:07:02.744Z",
+    "last_updated": "2026-09-22T20:12:59.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
