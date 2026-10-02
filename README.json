@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 924,
+            "stars": 923,
             "topics": [
               "browser",
               "decentralization",
@@ -44,7 +44,7 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T15:00:34Z",
+            "last_commit": "2026-10-02T13:05:10Z",
             "open_issues": 77,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19499,
+            "stars": 19502,
             "topics": [
               "browser",
               "chromium",
@@ -344,7 +344,7 @@
             "open_issues": 32,
             "owner": "deemru",
             "repo": "Chromium-Gost",
-            "stars": 615,
+            "stars": 617,
             "topics": [
               "boringssl",
               "chromium",
@@ -374,7 +374,7 @@
             "open_issues": 12,
             "owner": "leonaaraujo",
             "repo": "companion",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "app",
               "browser",
@@ -398,7 +398,7 @@
             "id": 257841809,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T09:43:26Z",
+            "last_commit": "2026-10-02T06:59:33Z",
             "open_issues": 563,
             "owner": "uazo",
             "repo": "cromite",
@@ -686,11 +686,11 @@
             "id": 295608796,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-01T07:07:27Z",
-            "open_issues": 150,
+            "last_commit": "2026-10-02T08:14:34Z",
+            "open_issues": 151,
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1517,
+            "stars": 1518,
             "topics": [
               "c11",
               "client",
@@ -775,7 +775,7 @@
             "id": 25392674,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-06T14:28:59Z",
+            "last_commit": "2026-10-01T23:19:19Z",
             "open_issues": 3,
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
@@ -1058,7 +1058,7 @@
             "open_issues": 56,
             "owner": "nilbuild",
             "repo": "pennywise",
-            "stars": 3867,
+            "stars": 3866,
             "topics": [
               "cross-platform",
               "electron",
@@ -1368,7 +1368,7 @@
             "open_issues": 112,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1388,
+            "stars": 1389,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1385,11 +1385,11 @@
             "id": 37347459,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T11:50:25Z",
+            "last_commit": "2026-10-02T19:24:39Z",
             "open_issues": 182,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27849,
+            "stars": 27853,
             "topics": [
               "chromium",
               "control",
@@ -1552,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:50:55.754Z",
+    "last_updated": "2026-10-02T21:20:42.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1564,7 +1564,7 @@
       "open_issues": 4,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
-      "stars": 614,
+      "stars": 613,
       "topics": [
         "awesome-list",
         "blink",
