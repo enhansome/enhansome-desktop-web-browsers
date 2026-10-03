@@ -48,7 +48,7 @@
             "open_issues": 77,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
-            "stars": 503,
+            "stars": 502,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3916,
+            "stars": 3917,
             "topics": [
               "browser",
               "cdr",
@@ -398,11 +398,11 @@
             "id": 257841809,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T06:59:33Z",
-            "open_issues": 563,
+            "last_commit": "2026-10-03T08:49:58Z",
+            "open_issues": 564,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8313,
+            "stars": 8316,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -690,7 +690,7 @@
             "open_issues": 151,
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1518,
+            "stars": 1519,
             "topics": [
               "c11",
               "client",
@@ -1149,7 +1149,7 @@
             "open_issues": 16,
             "owner": "Jazzzny",
             "repo": "powerfox-classic",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1368,7 +1368,7 @@
             "open_issues": 112,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1390,
+            "stars": 1391,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1386,10 +1386,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T19:24:39Z",
-            "open_issues": 182,
+            "open_issues": 183,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27853,
+            "stars": 27860,
             "topics": [
               "chromium",
               "control",
@@ -1552,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:41:17.544Z",
+    "last_updated": "2026-10-03T19:57:35.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
