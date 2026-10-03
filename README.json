@@ -44,7 +44,7 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T13:05:10Z",
+            "last_commit": "2026-10-02T21:47:00Z",
             "open_issues": 77,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19502,
+            "stars": 19503,
             "topics": [
               "browser",
               "chromium",
@@ -402,7 +402,7 @@
             "open_issues": 563,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8311,
+            "stars": 8313,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -775,7 +775,7 @@
             "id": 25392674,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-01T23:19:19Z",
+            "last_commit": "2026-10-02T23:28:56Z",
             "open_issues": 3,
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
@@ -1058,7 +1058,7 @@
             "open_issues": 56,
             "owner": "nilbuild",
             "repo": "pennywise",
-            "stars": 3866,
+            "stars": 3865,
             "topics": [
               "cross-platform",
               "electron",
@@ -1368,7 +1368,7 @@
             "open_issues": 112,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1389,
+            "stars": 1390,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1552,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:20:42.962Z",
+    "last_updated": "2026-10-03T04:41:17.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
