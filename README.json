@@ -44,8 +44,8 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T17:58:54Z",
-            "open_issues": 76,
+            "last_commit": "2026-10-09T19:20:36Z",
+            "open_issues": 77,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
             "stars": 503,
@@ -129,8 +129,8 @@
             "id": 618766633,
             "language": "Swift",
             "license": "NOASSERTION",
-            "last_commit": "2026-04-10T15:09:01Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-09T16:16:25Z",
+            "open_issues": 8,
             "owner": "beamlegacy",
             "repo": "beam",
             "stars": 71,
@@ -211,7 +211,7 @@
             "id": 222240688,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T18:15:32Z",
+            "last_commit": "2026-10-09T17:17:37Z",
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19510,
+            "stars": 19507,
             "topics": [
               "browser",
               "chromium",
@@ -398,11 +398,11 @@
             "id": 257841809,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T07:55:25Z",
-            "open_issues": 571,
+            "last_commit": "2026-10-09T09:57:34Z",
+            "open_issues": 572,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8327,
+            "stars": 8334,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1021,7 +1021,7 @@
             "id": 633021526,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T07:02:58Z",
+            "last_commit": "2026-10-09T01:59:03Z",
             "open_issues": 11,
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
@@ -1146,10 +1146,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T21:32:40Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "Jazzzny",
             "repo": "powerfox-classic",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1232,7 +1232,7 @@
             "open_issues": 17,
             "owner": "sharpbrowser",
             "repo": "SharpBrowser",
-            "stars": 1030,
+            "stars": 1031,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1365,10 +1365,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-06-30T12:05:17Z",
-            "open_issues": 111,
+            "open_issues": 112,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1389,
+            "stars": 1390,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1389,7 +1389,7 @@
             "open_issues": 181,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27920,
+            "stars": 27934,
             "topics": [
               "chromium",
               "control",
@@ -1474,7 +1474,7 @@
             "open_issues": 104,
             "owner": "wexond",
             "repo": "browser-base",
-            "stars": 2718,
+            "stars": 2717,
             "topics": [
               "browser",
               "chromium",
@@ -1552,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:08:06.732Z",
+    "last_updated": "2026-10-09T21:43:24.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
