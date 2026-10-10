@@ -48,7 +48,7 @@
             "open_issues": 77,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
-            "stars": 503,
+            "stars": 504,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -211,11 +211,11 @@
             "id": 222240688,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T17:17:37Z",
+            "last_commit": "2026-10-10T13:27:57Z",
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3920,
+            "stars": 3922,
             "topics": [
               "browser",
               "cdr",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19507,
+            "stars": 19509,
             "topics": [
               "browser",
               "chromium",
@@ -402,7 +402,7 @@
             "open_issues": 572,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8334,
+            "stars": 8339,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -540,10 +540,10 @@
             "language": "CSS",
             "license": "MPL-2.0",
             "last_commit": "2026-10-08T09:07:17Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "garuda-linux",
             "repo": "firedragon",
-            "stars": 402,
+            "stars": 401,
             "topics": [
               "browser",
               "firedragon",
@@ -690,7 +690,7 @@
             "open_issues": 151,
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1518,
+            "stars": 1519,
             "topics": [
               "c11",
               "client",
@@ -775,7 +775,7 @@
             "id": 25392674,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-05T23:19:13Z",
+            "last_commit": "2026-10-09T23:12:41Z",
             "open_issues": 3,
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
@@ -1021,7 +1021,7 @@
             "id": 633021526,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T01:59:03Z",
+            "last_commit": "2026-10-10T05:48:26Z",
             "open_issues": 11,
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
@@ -1232,7 +1232,7 @@
             "open_issues": 17,
             "owner": "sharpbrowser",
             "repo": "SharpBrowser",
-            "stars": 1031,
+            "stars": 1032,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1386,10 +1386,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-08T17:55:16Z",
-            "open_issues": 181,
+            "open_issues": 182,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27934,
+            "stars": 27940,
             "topics": [
               "chromium",
               "control",
@@ -1552,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:43:24.239Z",
+    "last_updated": "2026-10-10T20:34:48.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1564,7 +1564,7 @@
       "open_issues": 4,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
-      "stars": 615,
+      "stars": 616,
       "topics": [
         "awesome-list",
         "blink",
