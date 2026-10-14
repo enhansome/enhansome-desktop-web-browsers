@@ -44,11 +44,11 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T19:17:48Z",
-            "open_issues": 76,
+            "last_commit": "2026-10-14T09:33:19Z",
+            "open_issues": 75,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
-            "stars": 504,
+            "stars": 503,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3923,
+            "stars": 3925,
             "topics": [
               "browser",
               "cdr",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19508,
+            "stars": 19519,
             "topics": [
               "browser",
               "chromium",
@@ -344,7 +344,7 @@
             "open_issues": 32,
             "owner": "deemru",
             "repo": "Chromium-Gost",
-            "stars": 623,
+            "stars": 624,
             "topics": [
               "boringssl",
               "chromium",
@@ -399,10 +399,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-13T10:02:47Z",
-            "open_issues": 577,
+            "open_issues": 578,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8350,
+            "stars": 8353,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -539,7 +539,7 @@
             "id": 372471005,
             "language": "CSS",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-08T09:07:17Z",
+            "last_commit": "2026-10-14T17:49:44Z",
             "open_issues": 47,
             "owner": "garuda-linux",
             "repo": "firedragon",
@@ -775,8 +775,8 @@
             "id": 25392674,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-12T23:19:05Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-13T23:21:15Z",
+            "open_issues": 2,
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
             "stars": 96,
@@ -1021,8 +1021,8 @@
             "id": 633021526,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T00:32:01Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-14T01:53:46Z",
+            "open_issues": 14,
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
             "stars": 88,
@@ -1058,7 +1058,7 @@
             "open_issues": 56,
             "owner": "nilbuild",
             "repo": "pennywise",
-            "stars": 3864,
+            "stars": 3863,
             "topics": [
               "cross-platform",
               "electron",
@@ -1149,7 +1149,7 @@
             "open_issues": 17,
             "owner": "Jazzzny",
             "repo": "powerfox-classic",
-            "stars": 175,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1368,7 +1368,7 @@
             "open_issues": 112,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1390,
+            "stars": 1389,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1385,11 +1385,11 @@
             "id": 37347459,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-08T17:55:16Z",
-            "open_issues": 188,
+            "last_commit": "2026-10-14T19:52:56Z",
+            "open_issues": 184,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27977,
+            "stars": 27997,
             "topics": [
               "chromium",
               "control",
@@ -1519,40 +1519,55 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
-        }
-      ],
-      "title": "Y — Y Named Browsers"
-    },
-    {
-      "description": "A curated collection of browsers named starting from Z.\n0-9 | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z",
-      "items": [
+        },
         {
           "node_type": "item",
-          "title": "Zervo",
-          "description": "Servo Windows, macOS, Linux A calm, workspace-oriented browser built on the Servo engine.",
+          "title": "Yalqen",
+          "description": "Electron macOS Open-source developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A calm, workspace-oriented browser built on the Servo engine.",
-            "homepage": null,
-            "id": 1339503128,
-            "language": "Rust",
-            "license": "MPL-2.0",
-            "last_commit": "2026-08-23T16:04:55Z",
-            "open_issues": 1,
-            "owner": "Goddv",
-            "repo": "Zervo",
-            "stars": 38,
-            "topics": []
+            "description": "A browser that stays out of your way. Vertical tabs, a command bar, and built-in ad & tracker blocking for macOS.",
+            "homepage": "https://yalqen.com",
+            "id": 1387508032,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-14T07:48:54Z",
+            "open_issues": 8,
+            "owner": "YSamed",
+            "repo": "yalqen",
+            "stars": 31,
+            "topics": [
+              "ad-blocker",
+              "arc-alternative",
+              "browser",
+              "chromium",
+              "command-palette",
+              "developer-tools",
+              "electron",
+              "homebrew",
+              "keyboard-first",
+              "keyboard-shortcuts",
+              "macos",
+              "open-source",
+              "privacy",
+              "privacy-browser",
+              "productivity",
+              "svelte",
+              "tracker-blocker",
+              "typescript",
+              "vertical-tabs",
+              "web-browser"
+            ]
           },
-          "first_seen": "2026-08-29T00:59:02.278Z"
+          "first_seen": "2026-10-14T20:44:02.569Z"
         }
       ],
-      "title": "Z — Z Named Browsers"
+      "title": "Y — Y Named Browsers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:52:27.789Z",
+    "last_updated": "2026-10-14T20:44:02.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1560,11 +1575,11 @@
       "id": 644835363,
       "language": "HTML",
       "license": null,
-      "last_commit": "2026-09-13T18:05:01Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-14T08:28:53Z",
+      "open_issues": 3,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
-      "stars": 617,
+      "stars": 618,
       "topics": [
         "awesome-list",
         "blink",
@@ -1579,7 +1594,7 @@
         "windows"
       ]
     },
-    "original_repository_sha": "efe336a5d743bbb9971d6da1b96261339b42fe83",
+    "original_repository_sha": "554bc77a4885976576b64db4d6a4df77383780e4",
     "enhanced_repository": "enhansome/enhansome-desktop-web-browsers",
     "enhanced_repository_description": null,
     "title": "Awesome Desktop Web Browsers with stars"
