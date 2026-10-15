@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 924,
+            "stars": 925,
             "topics": [
               "browser",
               "decentralization",
@@ -44,11 +44,11 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T09:33:19Z",
+            "last_commit": "2026-10-15T06:46:03Z",
             "open_issues": 75,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
-            "stars": 503,
+            "stars": 504,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -211,11 +211,11 @@
             "id": 222240688,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T21:52:22Z",
+            "last_commit": "2026-10-15T03:40:17Z",
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3925,
+            "stars": 3926,
             "topics": [
               "browser",
               "cdr",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19519,
+            "stars": 19525,
             "topics": [
               "browser",
               "chromium",
@@ -344,7 +344,7 @@
             "open_issues": 32,
             "owner": "deemru",
             "repo": "Chromium-Gost",
-            "stars": 624,
+            "stars": 626,
             "topics": [
               "boringssl",
               "chromium",
@@ -398,11 +398,11 @@
             "id": 257841809,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T10:02:47Z",
+            "last_commit": "2026-10-15T07:58:00Z",
             "open_issues": 578,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8353,
+            "stars": 8356,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -690,7 +690,7 @@
             "open_issues": 151,
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1522,
+            "stars": 1523,
             "topics": [
               "c11",
               "client",
@@ -1021,7 +1021,7 @@
             "id": 633021526,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T01:53:46Z",
+            "last_commit": "2026-10-15T19:19:38Z",
             "open_issues": 14,
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
@@ -1385,11 +1385,11 @@
             "id": 37347459,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-14T19:52:56Z",
-            "open_issues": 184,
+            "last_commit": "2026-10-15T13:01:28Z",
+            "open_issues": 183,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 27997,
+            "stars": 28007,
             "topics": [
               "chromium",
               "control",
@@ -1532,7 +1532,7 @@
             "id": 1387508032,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T07:48:54Z",
+            "last_commit": "2026-10-15T09:58:19Z",
             "open_issues": 8,
             "owner": "YSamed",
             "repo": "yalqen",
@@ -1567,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:44:02.569Z",
+    "last_updated": "2026-10-15T20:21:56.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1579,7 +1579,7 @@
       "open_issues": 3,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
-      "stars": 618,
+      "stars": 620,
       "topics": [
         "awesome-list",
         "blink",
