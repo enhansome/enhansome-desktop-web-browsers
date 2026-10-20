@@ -44,7 +44,7 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T16:02:49Z",
+            "last_commit": "2026-10-20T20:16:32Z",
             "open_issues": 76,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19585,
+            "stars": 19594,
             "topics": [
               "browser",
               "chromium",
@@ -344,7 +344,7 @@
             "open_issues": 25,
             "owner": "deemru",
             "repo": "Chromium-Gost",
-            "stars": 627,
+            "stars": 628,
             "topics": [
               "boringssl",
               "chromium",
@@ -399,10 +399,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-19T08:27:04Z",
-            "open_issues": 580,
+            "open_issues": 585,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8379,
+            "stars": 8385,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -539,8 +539,8 @@
             "id": 372471005,
             "language": "CSS",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-14T17:49:44Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-20T19:36:20Z",
+            "open_issues": 49,
             "owner": "garuda-linux",
             "repo": "firedragon",
             "stars": 403,
@@ -690,7 +690,7 @@
             "open_issues": 151,
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1523,
+            "stars": 1525,
             "topics": [
               "c11",
               "client",
@@ -1021,7 +1021,7 @@
             "id": 633021526,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T21:20:17Z",
+            "last_commit": "2026-10-20T19:53:10Z",
             "open_issues": 14,
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
@@ -1149,7 +1149,7 @@
             "open_issues": 17,
             "owner": "Jazzzny",
             "repo": "powerfox-classic",
-            "stars": 177,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1232,7 +1232,7 @@
             "open_issues": 17,
             "owner": "sharpbrowser",
             "repo": "SharpBrowser",
-            "stars": 1031,
+            "stars": 1032,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1368,7 +1368,7 @@
             "open_issues": 112,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1395,
+            "stars": 1396,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1386,10 +1386,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-16T19:12:47Z",
-            "open_issues": 183,
+            "open_issues": 186,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 28043,
+            "stars": 28053,
             "topics": [
               "chromium",
               "control",
@@ -1532,7 +1532,7 @@
             "id": 1387508032,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T20:39:00Z",
+            "last_commit": "2026-10-20T09:43:47Z",
             "open_issues": 7,
             "owner": "YSamed",
             "repo": "yalqen",
@@ -1567,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:34:01.116Z",
+    "last_updated": "2026-10-20T20:38:58.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1579,7 +1579,7 @@
       "open_issues": 2,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
-      "stars": 623,
+      "stars": 624,
       "topics": [
         "awesome-list",
         "blink",
