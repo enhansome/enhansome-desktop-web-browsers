@@ -44,11 +44,11 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T16:16:19Z",
+            "last_commit": "2026-10-24T21:59:16Z",
             "open_issues": 76,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
-            "stars": 505,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19600,
+            "stars": 19604,
             "topics": [
               "browser",
               "chromium",
@@ -398,11 +398,11 @@
             "id": 257841809,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T05:45:02Z",
+            "last_commit": "2026-10-25T08:04:46Z",
             "open_issues": 591,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8424,
+            "stars": 8432,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -513,7 +513,7 @@
             "id": 399391518,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T09:10:56Z",
+            "last_commit": "2026-10-25T00:44:43Z",
             "open_issues": 30,
             "owner": "snaildos",
             "repo": "Fifo-Browser",
@@ -543,7 +543,7 @@
             "open_issues": 49,
             "owner": "garuda-linux",
             "repo": "firedragon",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "browser",
               "firedragon",
@@ -690,7 +690,7 @@
             "open_issues": 151,
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1526,
+            "stars": 1528,
             "topics": [
               "c11",
               "client",
@@ -775,7 +775,7 @@
             "id": 25392674,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-19T18:13:43Z",
+            "last_commit": "2026-10-24T23:08:24Z",
             "open_issues": 2,
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
@@ -1021,7 +1021,7 @@
             "id": 633021526,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T18:59:39Z",
+            "last_commit": "2026-10-25T19:12:42Z",
             "open_issues": 14,
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
@@ -1149,7 +1149,7 @@
             "open_issues": 17,
             "owner": "Jazzzny",
             "repo": "powerfox-classic",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1232,7 +1232,7 @@
             "open_issues": 17,
             "owner": "sharpbrowser",
             "repo": "SharpBrowser",
-            "stars": 1033,
+            "stars": 1034,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1365,7 +1365,7 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-06-30T12:05:17Z",
-            "open_issues": 112,
+            "open_issues": 113,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
             "stars": 1398,
@@ -1385,11 +1385,11 @@
             "id": 37347459,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T11:05:07Z",
-            "open_issues": 186,
+            "last_commit": "2026-10-25T13:46:38Z",
+            "open_issues": 185,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 28088,
+            "stars": 28094,
             "topics": [
               "chromium",
               "control",
@@ -1418,7 +1418,7 @@
             "open_issues": 8,
             "owner": "unstoppabledomains",
             "repo": "unstoppable-demo-browser",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1567,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:31:42.531Z",
+    "last_updated": "2026-10-25T19:41:42.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1575,11 +1575,11 @@
       "id": 644835363,
       "language": "HTML",
       "license": null,
-      "last_commit": "2026-10-22T19:25:09Z",
+      "last_commit": "2026-10-25T15:02:42Z",
       "open_issues": 2,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
-      "stars": 624,
+      "stars": 625,
       "topics": [
         "awesome-list",
         "blink",
@@ -1594,7 +1594,7 @@
         "windows"
       ]
     },
-    "original_repository_sha": "30b8b4e5ab326866b2dc0205155d594e14b761af",
+    "original_repository_sha": "5271543902d1fc25f3a57f4a1e62f6cc6b3589f2",
     "enhanced_repository": "enhansome/enhansome-desktop-web-browsers",
     "enhanced_repository_description": null,
     "title": "Awesome Desktop Web Browsers with stars"
