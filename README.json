@@ -44,11 +44,11 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T14:13:07Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-28T09:16:53Z",
+            "open_issues": 78,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
-            "stars": 505,
+            "stars": 504,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -133,7 +133,7 @@
             "open_issues": 10,
             "owner": "beamlegacy",
             "repo": "beam",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "adblocker",
               "bookmarks",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19606,
+            "stars": 19604,
             "topics": [
               "browser",
               "chromium",
@@ -399,10 +399,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-27T08:36:12Z",
-            "open_issues": 592,
+            "open_issues": 591,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8438,
+            "stars": 8447,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -539,8 +539,8 @@
             "id": 372471005,
             "language": "CSS",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-24T17:45:13Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-28T07:06:05Z",
+            "open_issues": 48,
             "owner": "garuda-linux",
             "repo": "firedragon",
             "stars": 403,
@@ -686,11 +686,11 @@
             "id": 295608796,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-18T12:27:13Z",
+            "last_commit": "2026-10-28T13:47:01Z",
             "open_issues": 151,
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1528,
+            "stars": 1529,
             "topics": [
               "c11",
               "client",
@@ -775,7 +775,7 @@
             "id": 25392674,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-27T00:17:12Z",
+            "last_commit": "2026-10-28T00:08:15Z",
             "open_issues": 2,
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
@@ -1021,7 +1021,7 @@
             "id": 633021526,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T17:38:02Z",
+            "last_commit": "2026-10-28T00:43:41Z",
             "open_issues": 14,
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
@@ -1149,7 +1149,7 @@
             "open_issues": 17,
             "owner": "Jazzzny",
             "repo": "powerfox-classic",
-            "stars": 181,
+            "stars": 183,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1365,7 +1365,7 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-06-30T12:05:17Z",
-            "open_issues": 113,
+            "open_issues": 112,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
             "stars": 1398,
@@ -1385,11 +1385,11 @@
             "id": 37347459,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-25T13:46:38Z",
-            "open_issues": 191,
+            "last_commit": "2026-10-28T00:26:42Z",
+            "open_issues": 186,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 28112,
+            "stars": 28126,
             "topics": [
               "chromium",
               "control",
@@ -1536,7 +1536,7 @@
             "open_issues": 7,
             "owner": "YSamed",
             "repo": "yalqen",
-            "stars": 31,
+            "stars": 33,
             "topics": [
               "ad-blocker",
               "appimage",
@@ -1567,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:21:58.051Z",
+    "last_updated": "2026-10-28T21:42:05.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1579,7 +1579,7 @@
       "open_issues": 2,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
-      "stars": 626,
+      "stars": 625,
       "topics": [
         "awesome-list",
         "blink",
