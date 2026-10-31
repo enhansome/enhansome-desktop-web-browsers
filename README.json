@@ -48,7 +48,7 @@
             "open_issues": 78,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
-            "stars": 504,
+            "stars": 505,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -133,7 +133,7 @@
             "open_issues": 10,
             "owner": "beamlegacy",
             "repo": "beam",
-            "stars": 73,
+            "stars": 74,
             "topics": [
               "adblocker",
               "bookmarks",
@@ -206,16 +206,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. ",
+            "description": "💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. Since 2018.",
             "homepage": "https://browserbox.io",
             "id": 222240688,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T15:46:11Z",
+            "last_commit": "2026-10-31T04:37:55Z",
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3930,
+            "stars": 3931,
             "topics": [
               "browser",
               "cdr",
@@ -290,7 +290,7 @@
             "open_issues": 90,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19605,
+            "stars": 19600,
             "topics": [
               "browser",
               "chromium",
@@ -398,11 +398,11 @@
             "id": 257841809,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T07:03:20Z",
-            "open_issues": 592,
+            "last_commit": "2026-10-31T09:14:53Z",
+            "open_issues": 594,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8451,
+            "stars": 8452,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -603,7 +603,7 @@
             "open_issues": 37,
             "owner": "pulse-browser",
             "repo": "experiment",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "browser",
               "firefox",
@@ -686,7 +686,7 @@
             "id": 295608796,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-30T19:54:42Z",
+            "last_commit": "2026-10-31T18:44:51Z",
             "open_issues": 151,
             "owner": "skyjake",
             "repo": "lagrange",
@@ -815,7 +815,7 @@
             "open_issues": 46,
             "owner": "LulumiProject",
             "repo": "lulumi-browser",
-            "stars": 441,
+            "stars": 440,
             "topics": [
               "browser",
               "electron",
@@ -1021,8 +1021,8 @@
             "id": 633021526,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T21:03:40Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-31T00:06:49Z",
+            "open_issues": 13,
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
             "stars": 91,
@@ -1368,7 +1368,7 @@
             "open_issues": 111,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1397,
+            "stars": 1396,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1389,7 +1389,7 @@
             "open_issues": 183,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 28147,
+            "stars": 28151,
             "topics": [
               "chromium",
               "control",
@@ -1532,11 +1532,11 @@
             "id": 1387508032,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T18:53:56Z",
+            "last_commit": "2026-10-31T14:30:24Z",
             "open_issues": 7,
             "owner": "YSamed",
             "repo": "yalqen",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "ad-blocker",
               "appimage",
@@ -1567,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:32:46.969Z",
+    "last_updated": "2026-10-31T20:28:00.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
