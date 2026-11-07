@@ -44,8 +44,8 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T16:18:51Z",
-            "open_issues": 75,
+            "last_commit": "2026-11-07T15:11:01Z",
+            "open_issues": 76,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
             "stars": 509,
@@ -211,7 +211,7 @@
             "id": 222240688,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T11:12:14Z",
+            "last_commit": "2026-11-07T09:48:14Z",
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
@@ -290,7 +290,7 @@
             "open_issues": 91,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19595,
+            "stars": 19594,
             "topics": [
               "browser",
               "chromium",
@@ -344,7 +344,7 @@
             "open_issues": 24,
             "owner": "deemru",
             "repo": "Chromium-Gost",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "boringssl",
               "chromium",
@@ -398,11 +398,11 @@
             "id": 257841809,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T07:58:29Z",
+            "last_commit": "2026-11-07T09:33:52Z",
             "open_issues": 597,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8471,
+            "stars": 8472,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -686,7 +686,7 @@
             "id": 295608796,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-06T19:19:13Z",
+            "last_commit": "2026-11-07T19:26:55Z",
             "open_issues": 152,
             "owner": "skyjake",
             "repo": "lagrange",
@@ -1021,7 +1021,7 @@
             "id": 633021526,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T22:36:19Z",
+            "last_commit": "2026-11-07T20:20:16Z",
             "open_issues": 14,
             "owner": "p2plabsxyz",
             "repo": "peersky-browser",
@@ -1368,7 +1368,7 @@
             "open_issues": 112,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1396,
+            "stars": 1397,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1389,7 +1389,7 @@
             "open_issues": 184,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 28181,
+            "stars": 28188,
             "topics": [
               "chromium",
               "control",
@@ -1532,7 +1532,7 @@
             "id": 1387508032,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T08:14:31Z",
+            "last_commit": "2026-11-06T22:44:56Z",
             "open_issues": 8,
             "owner": "YSamed",
             "repo": "yalqen",
@@ -1567,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:08:51.200Z",
+    "last_updated": "2026-11-07T20:56:09.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1579,7 +1579,7 @@
       "open_issues": 2,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
-      "stars": 628,
+      "stars": 629,
       "topics": [
         "awesome-list",
         "blink",
