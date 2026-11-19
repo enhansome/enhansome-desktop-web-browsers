@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 928,
+            "stars": 929,
             "topics": [
               "browser",
               "decentralization",
@@ -102,7 +102,7 @@
             "open_issues": 218,
             "owner": "beakerbrowser",
             "repo": "beaker",
-            "stars": 6732,
+            "stars": 6731,
             "topics": [
               "beaker",
               "browser",
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3936,
+            "stars": 3935,
             "topics": [
               "ai-agents",
               "browser",
@@ -287,7 +287,7 @@
             "open_issues": 91,
             "owner": "fathyb",
             "repo": "carbonyl",
-            "stars": 19604,
+            "stars": 19605,
             "topics": [
               "browser",
               "chromium",
@@ -337,11 +337,11 @@
             "id": 80726665,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-16T12:30:25Z",
+            "last_commit": "2026-11-19T11:47:03Z",
             "open_issues": 25,
             "owner": "deemru",
             "repo": "Chromium-Gost",
-            "stars": 644,
+            "stars": 645,
             "topics": [
               "boringssl",
               "chromium",
@@ -395,11 +395,11 @@
             "id": 257841809,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T09:22:29Z",
+            "last_commit": "2026-11-19T11:04:32Z",
             "open_issues": 601,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8518,
+            "stars": 8526,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -536,7 +536,7 @@
             "id": 372471005,
             "language": "CSS",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-18T08:04:08Z",
+            "last_commit": "2026-11-19T17:00:35Z",
             "open_issues": 49,
             "owner": "garuda-linux",
             "repo": "firedragon",
@@ -660,7 +660,7 @@
             "open_issues": 13,
             "owner": "azer",
             "repo": "kaktus",
-            "stars": 412,
+            "stars": 409,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -812,7 +812,7 @@
             "open_issues": 46,
             "owner": "LulumiProject",
             "repo": "lulumi-browser",
-            "stars": 441,
+            "stars": 440,
             "topics": [
               "browser",
               "electron",
@@ -1167,7 +1167,7 @@
             "open_issues": 19,
             "owner": "yessGlory17",
             "repo": "programmer-browser",
-            "stars": 596,
+            "stars": 595,
             "topics": [
               "browser",
               "javascript",
@@ -1229,7 +1229,7 @@
             "open_issues": 17,
             "owner": "sharpbrowser",
             "repo": "SharpBrowser",
-            "stars": 1035,
+            "stars": 1034,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1365,7 +1365,7 @@
             "open_issues": 114,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1391,
+            "stars": 1392,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1382,11 +1382,11 @@
             "id": 37347459,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T15:53:07Z",
-            "open_issues": 191,
+            "last_commit": "2026-11-19T19:22:00Z",
+            "open_issues": 187,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 28292,
+            "stars": 28299,
             "topics": [
               "chromium",
               "control",
@@ -1471,7 +1471,7 @@
             "open_issues": 104,
             "owner": "wexond",
             "repo": "browser-base",
-            "stars": 2714,
+            "stars": 2713,
             "topics": [
               "browser",
               "chromium",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:24:44.481Z",
+    "last_updated": "2026-11-19T23:36:19.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1573,7 +1573,7 @@
       "language": "HTML",
       "license": null,
       "last_commit": "2026-11-06T06:45:21Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
       "stars": 634,
