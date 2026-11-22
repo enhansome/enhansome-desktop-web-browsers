@@ -102,7 +102,7 @@
             "open_issues": 218,
             "owner": "beakerbrowser",
             "repo": "beaker",
-            "stars": 6732,
+            "stars": 6733,
             "topics": [
               "beaker",
               "browser",
@@ -399,7 +399,7 @@
             "open_issues": 601,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8534,
+            "stars": 8537,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -683,7 +683,7 @@
             "id": 295608796,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-20T17:08:27Z",
+            "last_commit": "2026-11-22T11:36:07Z",
             "open_issues": 103,
             "owner": "skyjake",
             "repo": "lagrange",
@@ -1386,7 +1386,7 @@
             "open_issues": 188,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 28311,
+            "stars": 28317,
             "topics": [
               "chromium",
               "control",
@@ -1529,7 +1529,7 @@
             "id": 1387508032,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T19:35:49Z",
+            "last_commit": "2026-11-22T20:29:30Z",
             "open_issues": 7,
             "owner": "YSamed",
             "repo": "yalqen",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:11:48.048Z",
+    "last_updated": "2026-11-22T22:29:16.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1572,8 +1572,8 @@
       "id": 644835363,
       "language": "HTML",
       "license": null,
-      "last_commit": "2026-11-06T06:45:21Z",
-      "open_issues": 4,
+      "last_commit": "2026-11-22T13:06:31Z",
+      "open_issues": 2,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
       "stars": 634,
@@ -1591,7 +1591,7 @@
         "windows"
       ]
     },
-    "original_repository_sha": "8c92b959e678ab4a39db17c8b392c2f9b903150a",
+    "original_repository_sha": "1d2751f4c5e2a2c499115874a413fabaa476ec83",
     "enhanced_repository": "enhansome/enhansome-desktop-web-browsers",
     "enhanced_repository_description": null,
     "title": "Awesome Desktop Web Browsers with stars"
