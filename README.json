@@ -19,7 +19,7 @@
             "open_issues": 104,
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 930,
+            "stars": 929,
             "topics": [
               "browser",
               "decentralization",
@@ -44,8 +44,8 @@
             "id": 152181901,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T00:55:30Z",
-            "open_issues": 78,
+            "last_commit": "2026-11-26T19:05:32Z",
+            "open_issues": 79,
             "owner": "rmottola",
             "repo": "Arctic-Fox",
             "stars": 510,
@@ -341,7 +341,7 @@
             "open_issues": 25,
             "owner": "deemru",
             "repo": "Chromium-Gost",
-            "stars": 647,
+            "stars": 648,
             "topics": [
               "boringssl",
               "chromium",
@@ -395,11 +395,11 @@
             "id": 257841809,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T12:03:08Z",
-            "open_issues": 604,
+            "last_commit": "2026-11-26T09:29:54Z",
+            "open_issues": 605,
             "owner": "uazo",
             "repo": "cromite",
-            "stars": 8551,
+            "stars": 8555,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -536,7 +536,7 @@
             "id": 372471005,
             "language": "CSS",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-25T16:35:43Z",
+            "last_commit": "2026-11-26T17:04:57Z",
             "open_issues": 49,
             "owner": "garuda-linux",
             "repo": "firedragon",
@@ -684,10 +684,10 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-23T17:04:09Z",
-            "open_issues": 103,
+            "open_issues": 104,
             "owner": "skyjake",
             "repo": "lagrange",
-            "stars": 1542,
+            "stars": 1545,
             "topics": [
               "c11",
               "client",
@@ -772,8 +772,8 @@
             "id": 25392674,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-23T18:12:47Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-26T23:27:02Z",
+            "open_issues": 5,
             "owner": "LoboEvolution",
             "repo": "LoboEvolution",
             "stars": 98,
@@ -1055,7 +1055,7 @@
             "open_issues": 56,
             "owner": "nilbuild",
             "repo": "pennywise",
-            "stars": 3870,
+            "stars": 3871,
             "topics": [
               "cross-platform",
               "electron",
@@ -1365,7 +1365,7 @@
             "open_issues": 115,
             "owner": "gonzazoid",
             "repo": "Ultimatum",
-            "stars": 1392,
+            "stars": 1391,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:02.278Z"
@@ -1383,10 +1383,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-25T13:56:12Z",
-            "open_issues": 188,
+            "open_issues": 189,
             "owner": "ungoogled-software",
             "repo": "ungoogled-chromium",
-            "stars": 28354,
+            "stars": 28371,
             "topics": [
               "chromium",
               "control",
@@ -1471,7 +1471,7 @@
             "open_issues": 104,
             "owner": "wexond",
             "repo": "browser-base",
-            "stars": 2713,
+            "stars": 2712,
             "topics": [
               "browser",
               "chromium",
@@ -1520,7 +1520,7 @@
         {
           "node_type": "item",
           "title": "Yalqen",
-          "description": "Electron macOS Open-source developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking.",
+          "description": "Electron macOS, Windows (preview) Open-source developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1529,7 +1529,7 @@
             "id": 1387508032,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T23:54:19Z",
+            "last_commit": "2026-11-26T20:46:33Z",
             "open_issues": 6,
             "owner": "YSamed",
             "repo": "yalqen",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:00:08.585Z",
+    "last_updated": "2026-11-27T01:01:35.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "Almost full list of all desktop web browsers",
@@ -1572,11 +1572,11 @@
       "id": 644835363,
       "language": "HTML",
       "license": null,
-      "last_commit": "2026-11-22T13:06:31Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-26T12:26:50Z",
+      "open_issues": 3,
       "owner": "nerdyslacker",
       "repo": "desktop-web-browsers",
-      "stars": 635,
+      "stars": 636,
       "topics": [
         "awesome-list",
         "blink",
@@ -1591,7 +1591,7 @@
         "windows"
       ]
     },
-    "original_repository_sha": "1d2751f4c5e2a2c499115874a413fabaa476ec83",
+    "original_repository_sha": "cb023267181960e534b14d3c8d86652e7534ed94",
     "enhanced_repository": "enhansome/enhansome-desktop-web-browsers",
     "enhanced_repository_description": null,
     "title": "Awesome Desktop Web Browsers with stars"
